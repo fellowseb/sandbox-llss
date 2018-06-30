@@ -1,1 +1,1 @@
-Sandbox repo for 'Learning Linux Shell Scripting' book.
+Sandbox repo for the 'Learning Linux Shell Scripting' book.
