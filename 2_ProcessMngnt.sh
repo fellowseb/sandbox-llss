@@ -19,7 +19,7 @@ jobs -l # [jobID]
 fg jobspec # Resume given job or current job in foreground
 bg jobspec # Resume given job in the background
 # jobspec => %job_id
-# current jib : % or %% or %+, previous job: %-
+# current job : % or %% or %+, previous job: %-
 # CTRL+Z: stops a processs, SIGTSTP
 # CTRL+Q: interrupts a process, SIGINT
 # CTRL+\: quits a process (interrupts and core dump=, SIGQUIT
