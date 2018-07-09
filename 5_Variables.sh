@@ -1,6 +1,6 @@
 #! /bin/bash
 person=seb # No space before and after = !
-echo $person.
+echo $person.  # Variable subsitution then word splitting using IFS
 echo "$person"
 echo '$person' # prints the string
 
